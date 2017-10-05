@@ -1,0 +1,15 @@
+[submodule "poppler"]
+	path = poppler
+	url = https://anongit.freedesktop.org/git/poppler/poppler.git
+[submodule "freetype2"]
+	path = freetype2
+	url = git://git.savannah.gnu.org/freetype/freetype2.git
+[submodule "libjpeg"]
+	path = libjpeg
+	url = ssh://KU@DD7/~/Git/libjpeg
+[submodule "libtiff"]
+	path = libtiff
+	url = ssh://KU@DD7/~/Git/libtiff
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
